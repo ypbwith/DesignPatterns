@@ -33,7 +33,7 @@ public:
              << "Number: "   << m_ID << endl << endl;
     }
 
-    unique_ptr<Record> clone() override
+    unique_ptr<Record>  clone() override
     {
         return make_unique<CarRecord>(*this);
     }

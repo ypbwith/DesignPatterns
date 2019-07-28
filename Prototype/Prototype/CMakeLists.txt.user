@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.9.1, 2019-07-28T18:53:54. -->
+<!-- Written by QtCreator 4.9.1, 2019-07-28T20:37:57. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -368,7 +368,7 @@ D:/works/DesignPatterns/Prototype/Prototype/</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseTerminal">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/YangPengbo/AppData/Local/Temp/QtCreator-TEwwCE/qtc-cmake-xNESXYeH</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/works/DesignPatterns/Prototype/build-Prototype-Desktop_Qt_5_13_0_MinGW_64_bit-Default</value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
