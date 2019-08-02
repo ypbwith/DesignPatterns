@@ -14,7 +14,6 @@ set(CMAKE_CXX20_COMPILE_FEATURES "")
 
 set(CMAKE_CXX_PLATFORM_ID "MinGW")
 set(CMAKE_CXX_SIMULATE_ID "")
-set(CMAKE_CXX_COMPILER_FRONTEND_VARIANT "")
 set(CMAKE_CXX_SIMULATE_VERSION "")
 
 
@@ -73,7 +72,7 @@ endif()
 
 
 
-set(CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES "D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/x86_64-w64-mingw32/include")
+set(CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES "D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include")
 set(CMAKE_CXX_IMPLICIT_LINK_LIBRARIES "stdc++;mingw32;gcc_s;gcc;moldname;mingwex;pthread;advapi32;shell32;user32;kernel32;iconv;mingw32;gcc_s;gcc;moldname;mingwex")
 set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/lib/gcc;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/x86_64-w64-mingw32/lib;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/lib")
 set(CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")

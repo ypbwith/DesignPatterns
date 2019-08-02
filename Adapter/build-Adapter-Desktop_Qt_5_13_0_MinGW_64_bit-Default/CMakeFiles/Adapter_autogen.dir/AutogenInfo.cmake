@@ -1,0 +1,29 @@
+# Meta
+set(AM_MULTI_CONFIG "FALSE")
+set(AM_PARALLEL "4")
+set(AM_VERBOSITY "")
+# Directories
+set(AM_CMAKE_SOURCE_DIR "C:/Users/Administrator/Desktop/progress/DesignPatterns/Adapter/Adapter")
+set(AM_CMAKE_BINARY_DIR "C:/Users/Administrator/Desktop/progress/DesignPatterns/Adapter/build-Adapter-Desktop_Qt_5_13_0_MinGW_64_bit-Default")
+set(AM_CMAKE_CURRENT_SOURCE_DIR "C:/Users/Administrator/Desktop/progress/DesignPatterns/Adapter/Adapter")
+set(AM_CMAKE_CURRENT_BINARY_DIR "C:/Users/Administrator/Desktop/progress/DesignPatterns/Adapter/build-Adapter-Desktop_Qt_5_13_0_MinGW_64_bit-Default")
+set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
+set(AM_BUILD_DIR "C:/Users/Administrator/Desktop/progress/DesignPatterns/Adapter/build-Adapter-Desktop_Qt_5_13_0_MinGW_64_bit-Default/Adapter_autogen")
+set(AM_INCLUDE_DIR "C:/Users/Administrator/Desktop/progress/DesignPatterns/Adapter/build-Adapter-Desktop_Qt_5_13_0_MinGW_64_bit-Default/Adapter_autogen/include")
+# Files
+set(AM_SOURCES "C:/Users/Administrator/Desktop/progress/DesignPatterns/Adapter/Adapter/main.cpp")
+set(AM_HEADERS "")
+set(AM_SETTINGS_FILE "C:/Users/Administrator/Desktop/progress/DesignPatterns/Adapter/build-Adapter-Desktop_Qt_5_13_0_MinGW_64_bit-Default/CMakeFiles/Adapter_autogen.dir/AutogenOldSettings.txt")
+# Qt
+set(AM_QT_VERSION_MAJOR 5)
+set(AM_QT_MOC_EXECUTABLE "D:/ProgramFiles/Qt/Qt5.13.0/5.13.0/mingw73_64/bin/moc.exe")
+set(AM_QT_UIC_EXECUTABLE "")
+# MOC settings
+set(AM_MOC_SKIP "")
+set(AM_MOC_DEFINITIONS "QT_CORE_LIB;QT_NO_DEBUG")
+set(AM_MOC_INCLUDES "C:/Users/Administrator/Desktop/progress/DesignPatterns/Adapter/build-Adapter-Desktop_Qt_5_13_0_MinGW_64_bit-Default;C:/Users/Administrator/Desktop/progress/DesignPatterns/Adapter/Adapter;D:/ProgramFiles/Qt/Qt5.13.0/5.13.0/mingw73_64/include;D:/ProgramFiles/Qt/Qt5.13.0/5.13.0/mingw73_64/include/QtCore;D:/ProgramFiles/Qt/Qt5.13.0/5.13.0/mingw73_64/./mkspecs/win32-g++;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed;D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include")
+set(AM_MOC_OPTIONS "")
+set(AM_MOC_RELAXED_MODE "")
+set(AM_MOC_MACRO_NAMES "Q_OBJECT;Q_GADGET;Q_NAMESPACE")
+set(AM_MOC_DEPEND_FILTERS "")
+set(AM_MOC_PREDEFS_CMD "D:/ProgramFiles/Qt/Qt5.13.0/Tools/mingw730_64/bin/g++.exe;-dM;-E;-c;D:/Program Files/CMake/share/cmake-3.14/Modules/CMakeCXXCompilerABI.cpp")

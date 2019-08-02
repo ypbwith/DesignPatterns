@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+d4760252a40e16cbda3b2edef50caf80 CMakeFiles/Adapter_autogen

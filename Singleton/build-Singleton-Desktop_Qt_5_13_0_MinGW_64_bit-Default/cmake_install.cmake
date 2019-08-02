@@ -1,4 +1,4 @@
-# Install script for directory: D:/works/DesignPatterns/Singleton/Singleton
+# Install script for directory: C:/Users/Administrator/Desktop/progress/DesignPatterns/Singleton/Singleton
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/works/DesignPatterns/Singleton/build-Singleton-Desktop_Qt_5_13_0_MinGW_64_bit-Default/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Administrator/Desktop/progress/DesignPatterns/Singleton/build-Singleton-Desktop_Qt_5_13_0_MinGW_64_bit-Default/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

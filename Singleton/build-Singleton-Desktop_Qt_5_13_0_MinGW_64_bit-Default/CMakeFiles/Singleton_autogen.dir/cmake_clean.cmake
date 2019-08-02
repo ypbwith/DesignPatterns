@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "Singleton_autogen"
+  "CMakeFiles/Singleton_autogen.dir/AutogenOldSettings.txt"
   "CMakeFiles/Singleton_autogen"
   "Singleton_autogen/mocs_compilation.cpp"
 )

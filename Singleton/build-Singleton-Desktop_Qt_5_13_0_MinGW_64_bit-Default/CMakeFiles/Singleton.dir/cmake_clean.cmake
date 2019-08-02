@@ -1,12 +1,11 @@
 file(REMOVE_RECURSE
+  "Singleton_autogen"
+  "CMakeFiles/Singleton_autogen.dir/AutogenOldSettings.txt"
   "CMakeFiles/Singleton.dir/Singleton_autogen/mocs_compilation.cpp.obj"
   "CMakeFiles/Singleton.dir/main.cpp.obj"
-  "CMakeFiles/Singleton_autogen.dir/AutogenOldSettings.txt"
-  "CMakeFiles/Singleton_autogen.dir/ParseCache.txt"
-  "Singleton_autogen"
+  "Singleton.pdb"
   "Singleton.exe"
   "Singleton.exe.manifest"
-  "Singleton.pdb"
   "libSingleton.dll.a"
 )
 

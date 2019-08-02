@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/works/DesignPatterns/Singleton/build-Singleton-Desktop_Qt_5_13_0_MinGW_64_bit-Default/Singleton_autogen/mocs_compilation.cpp" "D:/works/DesignPatterns/Singleton/build-Singleton-Desktop_Qt_5_13_0_MinGW_64_bit-Default/CMakeFiles/Singleton.dir/Singleton_autogen/mocs_compilation.cpp.obj"
-  "D:/works/DesignPatterns/Singleton/Singleton/main.cpp" "D:/works/DesignPatterns/Singleton/build-Singleton-Desktop_Qt_5_13_0_MinGW_64_bit-Default/CMakeFiles/Singleton.dir/main.cpp.obj"
+  "C:/Users/Administrator/Desktop/progress/DesignPatterns/Singleton/build-Singleton-Desktop_Qt_5_13_0_MinGW_64_bit-Default/Singleton_autogen/mocs_compilation.cpp" "C:/Users/Administrator/Desktop/progress/DesignPatterns/Singleton/build-Singleton-Desktop_Qt_5_13_0_MinGW_64_bit-Default/CMakeFiles/Singleton.dir/Singleton_autogen/mocs_compilation.cpp.obj"
+  "C:/Users/Administrator/Desktop/progress/DesignPatterns/Singleton/Singleton/main.cpp" "C:/Users/Administrator/Desktop/progress/DesignPatterns/Singleton/build-Singleton-Desktop_Qt_5_13_0_MinGW_64_bit-Default/CMakeFiles/Singleton.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -18,7 +18,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "."
-  "D:/works/DesignPatterns/Singleton/Singleton"
+  "C:/Users/Administrator/Desktop/progress/DesignPatterns/Singleton/Singleton"
   "Singleton_autogen/include"
   "D:/ProgramFiles/Qt/Qt5.13.0/5.13.0/mingw73_64/include"
   "D:/ProgramFiles/Qt/Qt5.13.0/5.13.0/mingw73_64/include/QtCore"
