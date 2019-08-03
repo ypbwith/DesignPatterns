@@ -1,4 +1,0 @@
-D:/works/designPatterns/builder/build-builder-Desktop_Qt_5_13_0_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
-D:/works/designPatterns/builder/build-builder-Desktop_Qt_5_13_0_MinGW_64_bit-Release/CMakeFiles/builder.dir
-D:/works/designPatterns/builder/build-builder-Desktop_Qt_5_13_0_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
-D:/works/designPatterns/builder/build-builder-Desktop_Qt_5_13_0_MinGW_64_bit-Release/CMakeFiles/builder_autogen.dir

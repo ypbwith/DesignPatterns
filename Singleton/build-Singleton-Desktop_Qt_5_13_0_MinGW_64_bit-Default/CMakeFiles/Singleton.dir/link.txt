@@ -1,3 +1,0 @@
-"D:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\Singleton.dir/objects.a
-D:\ProgramFiles\Qt\Qt5.13.0\Tools\mingw730_64\bin\ar.exe cr CMakeFiles\Singleton.dir/objects.a @CMakeFiles\Singleton.dir\objects1.rsp
-D:\ProgramFiles\Qt\Qt5.13.0\Tools\mingw730_64\bin\g++.exe    -Wl,--whole-archive CMakeFiles\Singleton.dir/objects.a -Wl,--no-whole-archive  -o Singleton.exe -Wl,--out-implib,libSingleton.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Singleton.dir\linklibs.rsp

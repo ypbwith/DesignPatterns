@@ -1,4 +1,0 @@
-D:/works/DesignPatterns/Prototype/build-Prototype-Desktop_Qt_5_13_0_MinGW_64_bit-Default/CMakeFiles/Prototype.dir
-D:/works/DesignPatterns/Prototype/build-Prototype-Desktop_Qt_5_13_0_MinGW_64_bit-Default/CMakeFiles/edit_cache.dir
-D:/works/DesignPatterns/Prototype/build-Prototype-Desktop_Qt_5_13_0_MinGW_64_bit-Default/CMakeFiles/rebuild_cache.dir
-D:/works/DesignPatterns/Prototype/build-Prototype-Desktop_Qt_5_13_0_MinGW_64_bit-Default/CMakeFiles/Prototype_autogen.dir
