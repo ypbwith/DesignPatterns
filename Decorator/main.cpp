@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-class Car //Our Abstract base class
+class Car //Our Abstract base class 车的抽象基类
 {
         protected:
                 string _str;
@@ -25,7 +25,7 @@ class Car //Our Abstract base class
                 }
 };
 
-class OptionsDecorator : public Car //Decorator Base class
+class OptionsDecorator : public Car //Decorator Base class 装饰选项基类
 {
         public:
                 virtual string getDescription() = 0;
@@ -37,7 +37,7 @@ class OptionsDecorator : public Car //Decorator Base class
 };
 
 
-class CarModel1 : public Car
+class CarModel1 : public Car //定义一种车型
 {
         public:
                 CarModel1()
@@ -56,7 +56,7 @@ class CarModel1 : public Car
 };
 
 
-class Navigation: public OptionsDecorator
+class Navigation: public OptionsDecorator // 导航 装饰 ，在这个类中重写装饰类中的方法， 给车加一个导航的方法
 {
                 Car *_b;
         public:
@@ -80,7 +80,7 @@ class Navigation: public OptionsDecorator
                 }
 };
 
-class PremiumSoundSystem: public OptionsDecorator
+class PremiumSoundSystem: public OptionsDecorator //高级音响系统
 {
                 Car *_b;
         public:
@@ -104,7 +104,7 @@ class PremiumSoundSystem: public OptionsDecorator
                 }
 };
 
-class ManualTransmission: public OptionsDecorator
+class ManualTransmission: public OptionsDecorator //手动变速器
 {
                 Car *_b;
         public:
