@@ -1,5 +1,9 @@
 #include <iostream>
+
+#include <pthread.h>
+
 using namespace std;
+
 
 /* Place holder for thread synchronization mutex */
 class Mutex
